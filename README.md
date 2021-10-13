@@ -1,1 +1,3 @@
-# friendly-collab-party-ols-4
+# Friendly Collab Party OLS-4
+
+Learning about GitHub :) 
